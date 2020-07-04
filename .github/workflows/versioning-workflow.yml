@@ -1,7 +1,7 @@
 name: Priestine Versioning
 on:
  push:
-  branches: [master]
+  branches: [main]
 jobs:
  versioning:
   runs-on: ubuntu-latest
