@@ -1,5 +1,15 @@
 # ||l Template Repository
 
+![lint](https://github.com/priestine/template/workflows/lint/badge.svg)
+![ava](https://github.com/priestine/template/workflows/AVA/badge.svg)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/47fea726a5dfd86413cf/maintainability)](https://codeclimate.com/github/priestine/template/maintainability)
+[![codecov](https://codecov.io/gh/priestine/template/branch/master/graph/badge.svg)](https://codecov.io/gh/priestine/template)
+
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![@priestine/versions](https://img.shields.io/badge/versioning-%7C%7Cl-E76D83.svg)](https://github.com/priestine/versions)
+
 This is a template repository I created for my projects. You can freely use it if you find it conventient. PRs welcome!
 
 ## Why
@@ -27,8 +37,4 @@ To help myself, I decided to create this repository. It is intended to be used f
 
 Things below are the things I need myself. If you think something else can be provided, let me know by creating a feature request issue.
 
-- Versioning
-- Publishing to NPM and GitHub Packages
-- Denoability
-- Gatsby compatibility oriented for Netlify
 - Automated way to change project name, description (and, hopefully, author)
