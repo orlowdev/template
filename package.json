@@ -9,7 +9,7 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"repository": "https://github.com/priestine/template.git",
+	"repository": "https://github.com/orlovedev/template.git",
 	"author": "Sergei Orlov <orlove.dev@gmail.com> (https://orlove.dev/)",
 	"keywords": [],
 	"license": "MIT",
