@@ -8,7 +8,7 @@
 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![@priestine/versions](https://img.shields.io/badge/versioning-%7C%7Cl-E76D83.svg)](https://github.com/priestine/versions)
+[![versioning: or-release](https://img.shields.io/badge/versioning-%7C%7Cr-E76D83.svg)](https://github.com/orlovedev/or-release)
 
 This is a template repository I created for my projects. You can freely use it if you find it conventient. PRs welcome!
 
