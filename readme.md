@@ -3,7 +3,7 @@
 ![lint](https://github.com/orlovedev/template/workflows/lint/badge.svg)
 ![ava](https://github.com/orlovedev/template/workflows/AVA/badge.svg)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/47fea726a5dfd86413cf/maintainability)](https://codeclimate.com/github/orlovedev/template/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ce5601f3a66994877fb0/maintainability)](https://codeclimate.com/github/orlovedev/template/maintainability)
 [![codecov](https://codecov.io/gh/orlovedev/template/branch/main/graph/badge.svg)](https://codecov.io/gh/orlovedev/template)
 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
